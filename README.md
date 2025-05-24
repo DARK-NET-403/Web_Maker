@@ -64,7 +64,7 @@ The creator takes NO RESPONSIBILITY for misuse.
 ## 🖼️ Tutorial Video
 
 <p align="center">
-  <a href="http://www.mediafire.com/file/10pkvspdrl7cktf/lv_0_20250525024428.mp4" target="_blank">
+  <a href="https://www.mediafire.com/file/10pkvspdrl7cktf/lv_0_20250525024428.mp4/file" target="_blank">
     <img src="https://img.shields.io/badge/▶️ Watch%20Tutorial%20Video%20On-Mediafire-blue?style=for-the-badge&logo=mediafire" alt="Watch on Mediafire">
   </a>
 </p>
