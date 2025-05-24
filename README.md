@@ -64,8 +64,8 @@ The creator takes NO RESPONSIBILITY for misuse.
 ## 🖼️ Tutorial Video
 
 <p align="center">
-  <a href="https://www.facebook.com/100091418499886/videos/682791954383008/?mibextid=ClGUQ9kqrXgNGENK" target="_blank">
-    <img src="https://img.shields.io/badge/▶️ Watch%20Tutorial%20Video%20On-Facebook-blue?style=for-the-badge&logo=facebook" alt="Watch on Facebook">
+  <a href="http://www.mediafire.com/file/10pkvspdrl7cktf/lv_0_20250525024428.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/▶️ Watch%20Tutorial%20Video%20On-Mediafire-blue?style=for-the-badge&logo=mediafire" alt="Watch on Mediafire">
   </a>
 </p>
 
