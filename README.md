@@ -42,8 +42,8 @@ pkg update -y && pkg upgrade -y
 pkg install python git figlet -y
 pip install pyfiglet termcolor
 rm -rf WebMaker
-git clone https://github.com/DARK-NET-403/WebMaker
-cd WebMaker
+git clone https://github.com/DARK-NET-403/Web_Maker
+cd Web_Maker
 chmod +x sarvar.bin
 ./sarvar.bin
 ```
